@@ -1,0 +1,3 @@
+Config { query: "to", file_path: "poem.txt", ignore_case: false }
+Are you nobody, too?
+How dreary to be somebody!
